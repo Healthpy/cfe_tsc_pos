@@ -1,0 +1,1 @@
+{"n_features": 3, "n_classes": 4, "seq_length": 206, "framework": "pytorch", "model_type": "lstmfcn"}
